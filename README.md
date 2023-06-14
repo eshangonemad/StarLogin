@@ -29,7 +29,7 @@ Note that the AUTH_EMAIL variable is defined by the Login script
 
 ## StarLogin Official Button
 
-	You can use the official StarLogin Button to ease your development experience. We have documented how to do so down below.
+You can use the official StarLogin Button to ease your development experience. We have documented how to do so down below.
 
 Step 1)
 Import the StarLogin Button CSS (Currently for Light Mode Only)
