@@ -3,6 +3,8 @@ StarLogin is a user-friendly and versatile login interface designed to streamlin
 
 Want to implement StarLogin into your web app? we have provided an implementation section to do so.
 
+Contact Section is provided at the bottom of the markdown file
+
 # Implementation
 
 Here we will be focusing on HTML CSS and JS implementation.
@@ -68,4 +70,4 @@ when the button is clicked :
 If you found flaws or want to clear doubts about StarLogin
 
 Discord:**Vasipalli#8700**
-
+Email:**a8xn5546w@mozmail.com**
