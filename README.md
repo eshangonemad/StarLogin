@@ -52,7 +52,7 @@ Note:  The button glows StarKloud Blue when hovered on
 
 ## How to launch StarLogin Window
 
-To launch the StarLogin authentication window you must run the InitLogin() command in JavaScript
+To launch the StarLogin authentication window you must run the InitLogin() function in JavaScript
 
 **Example (Html)**
 
@@ -61,8 +61,11 @@ To launch the StarLogin authentication window you must run the InitLogin() comma
 when the button is clicked :
 
 **Output**
+
 ![StarLogin Page Launch When Button Clicked](https://starlogin.eshanaditya.repl.co/Brand_Resource/login.png)
 
+#CONTACT
+If you found flaws or want to clear doubts about StarLogin
 
-
+Discord:**Vasipalli#8700**
 
