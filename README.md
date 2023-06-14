@@ -26,19 +26,6 @@ Create Button
 Note that the AUTH_EMAIL variable is defined by the Login script
 
 **Your User is Successfully Authenticated through StarLogin**
-## How to launch StarLogin Window
-
-To launch the StarLogin authentication window you must run the InitLogin() command in JavaScript
-
-**Example (Html)**
-
-    <button onclick='InitLogin'>StarLogin</button>
-
-when the button is clicked :
-
-**Output**
-![StarLogin Page Launch When Button Clicked](https://starlogin.eshanaditya.repl.co/Brand_Resource/login.png)
-
 
 ## StarLogin Official Button
 
@@ -62,4 +49,20 @@ When code is run:
 ![enter image description here](https://starlogin.eshanaditya.repl.co/Brand_Resource/button.light.png)
 
 Note:  The button glows StarKloud Blue when hovered on
+
+## How to launch StarLogin Window
+
+To launch the StarLogin authentication window you must run the InitLogin() command in JavaScript
+
+**Example (Html)**
+
+    <button onclick='InitLogin'>StarLogin</button>
+
+when the button is clicked :
+
+**Output**
+![StarLogin Page Launch When Button Clicked](https://starlogin.eshanaditya.repl.co/Brand_Resource/login.png)
+
+
+
 
