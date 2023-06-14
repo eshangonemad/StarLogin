@@ -3,7 +3,7 @@ StarLogin is a user-friendly and versatile login interface designed to streamlin
 
 Want to implement StarLogin into your web app? we have provided an implementation section to do so.
 
-Contact Section is provided at the bottom of the markdown file
+**Contact Section is provided at the bottom of the markdown file**
 
 # Implementation
 
