@@ -39,7 +39,9 @@ when the button is clicked :
 **Output**
 ![StarLogin Page Launch When Button Clicked](https://starlogin.eshanaditya.repl.co/Brand_Resource/login.png)
 
-##StarLogin Official Button
+
+## StarLogin Official Button
+
 	You can use the official StarLogin Button to ease your development experience. We have documented how to do so down below.
 
 Step 1)
@@ -56,6 +58,8 @@ Place the Pre-Styled Button using the code below
       <span class="button-text">Sign in with StarKloud</span>  
     </button>
 When code is run:
+
 ![enter image description here](https://starlogin.eshanaditya.repl.co/Brand_Resource/button.light.png)
+
 Note:  The button glows StarKloud Blue when hovered on
 
