@@ -29,6 +29,13 @@ Note that the AUTH_EMAIL variable is defined by the Login script
 
 **Your User is Successfully Authenticated through StarLogin**
 
+You can run functions after authentication using the following code
+```
+function AfterAuth(){
+//Add Your Code Here
+}
+```
+
 ## StarLogin Official Button
 
 You can use the official StarLogin Button to ease your development experience. We have documented how to do so down below.
